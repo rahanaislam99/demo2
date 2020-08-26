@@ -1,0 +1,165 @@
+.content{
+	background: #E9EBEE;
+}
+
+
+/* Header Area Style Start Here */
+.header_top {
+    background: #435F9C;
+}
+
+.header_top .logo h1 {
+    font-weight: 700;
+    color: #FDFEFE;
+    font-size: 39px;
+    margin-left: 180px;
+    padding: 30px 26px 2px 10px;
+}
+
+
+
+
+
+.login_form .label {
+    color: #FDFEFE;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.label label {
+    padding-right: 94px;
+}
+
+input[type="submit"] {
+    background: #365899;
+    font-size: 15px;
+    color: #fff;
+}
+
+.lg-form a {
+    color: #9CABC5;
+    font-size: 15px;
+    margin-left: 189px;
+}
+
+/* Content Style */
+
+.heading h2 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.heading p {
+    font-size: 20px;
+}
+
+/* Card Style */
+
+.card {
+    float: left;
+    margin: 7px;
+    position: relative;
+}
+
+.card-body {
+    font-size: 20px;
+    color: #4B4F56;
+    margin: 0px auto;
+}
+span.notification {
+    position: absolute;
+    font-size: 16px;
+    border-radius: 50%;
+    background: #FA3E3E;
+    height: 23px;
+    width: 23px;
+    line-height: 1.5;
+    left: 167px;
+    z-index: 1;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+}
+.icon{
+	position: absolute;
+    font-size: 16px;
+    border-radius: 50%;
+    background: #ebebeb75;
+    height: 19px;
+    width: 19px;
+    left: 25px;
+    z-index: 1;
+    color: #fff;
+    text-align: center;
+    font-weight: 400;
+    top: 122px;
+}
+
+/* Footer Area Style */
+
+ul{
+	display: block;
+}
+ul li{
+	display: inline-block;
+    color: #385898;
+    font-size: 12px;
+    padding-right: 5px;
+}	
+
+
+.footer_area {
+    padding: 40px;
+}
+
+.footer_area p {
+    padding-left: 40px;
+    font-size: 12px;
+}
+.footer_bottom {
+    border-top: 1px solid #ddd;
+}
+.footer_top ul li:first-child{
+	color: #212529;
+}/
+
+i.fa.fa-plus {
+    border: 1px solid #ddd;
+    padding: 2px 7px;
+    background: #42626717;
+}
+
+/* Form Login */
+
+input.form-control {
+    margin-bottom: 10px;
+    width: 75%;
+}
+input.form-control.name {
+    width: 35%;
+    float: left;
+}
+
+input.form-control.surname {
+    width: 37%;
+    float: left;
+    margin-left: 15px;
+}
+
+label {
+    color: #90949C;
+    font-weight: 600;
+}
+
+.signupform p {
+    font-size: 12px;
+}
+
+button.btn.btn-success {
+    background: #69A455;
+    font-weight: 700;
+    padding: 5px 40px;
+    font-size: 19px;
+    border: 1px solid #6f6b71;    
+}
